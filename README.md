@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @uiseoklee.
+- 👋 Hi, I’m @UiseokLee.
 - 👀 I’m interested in the deep learning.
-- 🌱 I’m currently learning the CNN, RNN for my future job.
-- 💞️ I’m looking to transfer learining for my project.
+- 🌱 I’m currently learning the Transformer, Reinforcement learning for my future research.
+- 💞️ I’m looking to go to graduate school.
 - 📫 How to reach me ...
 
 <!---
