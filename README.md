@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UiseokLee.
 - 👀 I’m interested in the deep learning.
 - 🌱 I’m currently learning the Transformer, Reinforcement learning for my future research.
-- 💞️ I’m looking to go to graduate school.
+- 💞️ I’m looking to go to AI graduate school.
 - 📫 How to reach me ...
 
 <!---
