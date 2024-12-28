@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @UiseokLee.
-- 👀 I’m interested in the deep learning.
-- 🌱 I’m currently learning the Transformer, Reinforcement learning for my future research.
-- 💞️ I’m looking to go to AI graduate school.
+- 👋 Hi, I’m @UiseokLee, a graduate of the AI department at Konkuk University Graduate School.
+- 👀 I’m interested in AI for Robotics and Biology.
+- 🌱 I’m currently studying topics like CNNs, Transformers, Reinforcement Learning and other advanced AI techniques.
+- 💞️ I’m exploring opportunities in robotics or bio-AI companies.
 - 📫 How to reach me ...
 
 <!---
