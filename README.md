@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UiseokLee, a graduate of the AI department at Konkuk University Graduate School.
-- 👀 I’m interested in AI for Robotics and Biology.
+- 👀 I’m interested in AI for Robotics.
 - 🌱 I’m currently studying topics like CNNs, Transformers, Reinforcement Learning and other advanced AI techniques.
-- 💞️ I’m exploring opportunities in robotics or bio-AI companies.
+- 💞️ I’m exploring opportunities in robotics companies.
 - 📫 How to reach me ...
 
 <!---
